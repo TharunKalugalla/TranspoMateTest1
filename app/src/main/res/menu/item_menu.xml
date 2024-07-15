@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/live"
+        android:icon="@drawable/live"
+        android:title="@string/live"/>
+    <item
+        android:id="@+id/schedule"
+        android:icon="@drawable/schedule"
+        android:title="@string/schedule"/>
+    <item
+        android:id="@+id/tickets"
+        android:icon="@drawable/tickets"
+        android:title="@string/tickets"/>
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/profile"
+        android:title="@string/profile"/>
+
+
+</menu>

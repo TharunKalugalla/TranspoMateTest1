@@ -1,0 +1,46 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">TranspoMateTest1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="login">Login</string>
+    <string name="logo_text">logo</string>
+    <string name="do_not_acc">Don’t have an account?</string>
+    <string name="create_acc">Create Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="address">Address</string>
+    <string name="email">Email</string>
+    <string name="login_image">LoginImage</string>
+    <string name="login_txt">Login</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="password_reset">Password Reset</string>
+    <string name="password_code_will_be_sent_to_your_registered_mobile_phone_number_email_address">Password code will be sent to your registered mobile phone number/email address</string>
+    <string name="email_address">Email Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="get_code">Get Code</string>
+    <string name="live">Live</string>
+    <string name="schedule">Schedule</string>
+    <string name="tickets">Tickets</string>
+    <string name="profile">Profile</string>
+    <string name="my_tickets">My Tickets</string>
+    <string name="polonnaruwa">Polonnaruwa</string>
+    <string name="kandy">Kandy</string>
+    <string name="kurunegala">Kurunegala</string>
+    <string name="colombo">Colombo</string>
+    <string name="lkr">LKR</string>
+    <string name="pay">Pay</string>
+    <string name="price">170</string>
+    <string name="payment_successful">Payment Successful</string>
+    <string name="go_to_tickets">Go to Tickets</string>
+    <string name="todo">TODO</string>
+    <string name="paymentsuccessfull">PaymentSuccessfull</string>
+    <string name="login_with_biometric_credentials">Login with Biometric Credentials</string>
+    <string name="fingerprints">FingerPrints</string>
+    <string name="don_t_have_an_account_signup">Don\'t have an account? SignUp</string>
+    <string name="frogot_password">Frogot Password?</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "444259750565",
+    "project_id": "transpomate-login-register",
+    "storage_bucket": "transpomate-login-register.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444259750565:android:5074713bd34595f15a334c",
+        "android_client_info": {
+          "package_name": "com.example.transpomatetest1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444259750565-uspj0c1a7l23mlumkbc6ikhfiur78k65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUUPBcfDwZRBMvD0ENJU2VHjPJPihn9mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444259750565-uspj0c1a7l23mlumkbc6ikhfiur78k65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
